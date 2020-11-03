@@ -10,6 +10,9 @@ app.use(function(req, res, next) {
   res.send('404: File Not Found');
 });
 
+let myName = ("jayden tweedie");
+prompt(`Hello, ${myName}`);
+
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, function(){
