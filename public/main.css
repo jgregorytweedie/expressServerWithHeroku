@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+main {
+  background-image: url(img/desert.jpg);
+  background-repeat: no-repeat;
+}
