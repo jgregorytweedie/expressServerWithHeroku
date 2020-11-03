@@ -9,4 +9,5 @@ body {
 main {
   background-image: url(img/desert.jpg);
   background-repeat: no-repeat;
+  background-position: cover;
 }
