@@ -4,10 +4,12 @@ body {
   align-items: center;
 
   height: 100vh;
-}
 
-main {
   background-image: url(img/desert.jpg);
   background-repeat: no-repeat;
   background-position: cover;
+}
+
+main {
+  
 }
